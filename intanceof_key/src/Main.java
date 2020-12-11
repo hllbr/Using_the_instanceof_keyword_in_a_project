@@ -1,3 +1,4 @@
+//Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
 //1.class
 class Hayvan {
     private String isim ;
